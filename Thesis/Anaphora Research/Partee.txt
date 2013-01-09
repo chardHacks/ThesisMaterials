@@ -1,0 +1,90 @@
+﻿problem |solution| reco
+
+The study of anaphora involves both syntax and semantics. We need syntax to
+describe the distribution of anaphoric expressions and their antecedents, and we need
+semantics to describe how the semantic value of an anaphoric expression is determined.
+
+Anaphora -is a type of expression whose reference depends upon another referential element.
+
+	Anaphora, reference is made on the preceding part of the text (antecedent) opposed to
+	Cataphora, reference is on the proceding part of the text (postcedent)
+
+	Exophoric reference, reference is not found inside the text
+	Homophoric reference is a generic phrase that obtains a specific meaning through knowledge of its context. Example, 'The Mayor', where the user must have sufficient knowledge about the Mayor.
+
+
+antecedent - the one being pointed by the anaphor
+	ex: Richard killed himself. 
+	Richard is the Antecedent.
+	Himself is the Anaphor
+
+Anaphoric Expression - the phrase that refers to an antecedent.
+
+
+Pronomial - refers to ordinary personal pronoun like he, she, him, her, etc.
+
+Reflexive Pronoun it is a pronoun that is preceded by the noun, adjective, adverb or pronoun to which it refers (its antecedent) within the same clause.
+ex. herself, himself
+
+Pragmatic Anaphora is a type of anaphor that requres the reader to have knowledge on the context in order to find the anaphor / antecedent.
+
+(Parteep 2008)
+ Coreference Vs Bound Variable
+
+ Coreference 
+ 	-antecent is specific; is a proper name;
+
+ 	-the antecedent is an 'e-type' expression that denotes (refers to) an individual, and the pronoun “picks up the reference of” its antecedent.
+
+ Bound Variable
+ 	-antecedent is a scope; do not refer to an individual. ex. Every man, No one.
+
+Barbara H. Partee Anaphoric Samples
+(1)
+	a John left because he was tired. NP(Noun Phrase he) - Pronominal Anaphora
+	
+	b Mary went to California because Susan did ____. VP(Verb Phrase) Null anaphoric expression, Null Verb Phrase; Verb Phrase missing (...because susan did too)
+	c Tom may arrive this evening. If so, I'll be very happy. Sentential anaphora because antecedent is a whole sentence(Tom may arrive this evening). Anaphor : So. 
+	
+	d Some careless driver backed into our car. Such people make me mad.  Adjectival Anaphora. Antecedent: Such. Anaphor: Some careless driver. Anaphor is a property-denoting expression.
+	
+	e No one wanted to admit that he might be wrong. Pronominal anaphora with a quantified Noun Phrase as an antecedent. (Antecedent is  a range of possible answers).
+
+
+(3) cataphora
+	a. If you can find it, I would recommend buying the 1977 Vishnevskaya recording.  Antecedent : 1977 Vishnevskaya recording. Anaphor: it;
+
+	b. As we have __ in the past, WFCR will continue to bring you the finest music. Antecedent: Missing ex: it. Anaphor: bring you the finest music.
+
+	c. I can’t believe it! We won!
+
+	d. You must remember this: A kiss is just a kiss; a sigh is just a sigh.
+
+(5) the strict-sloppy identity problem, argument for two different interpretation rules.
+
+	John loves his wife. Where 'his' can mean John's or can have referent outside the sentence.
+
+(6)
+	John loves his wife and so does Bill. 
+		John loves Max's wife and Bill loves Max's wife.
+		John loves John's wife and Bill loves John's wife.
+		John loves John's wife and Bill loves Bill's wife.
+
+(7)
+	John can stand on his head , and Mary can too. 
+		(can stand on her head too? or John's head?)
+
+
+(9)
+	Lucie thought that Lili hurt her.
+Antecedent: Lucie. Anaphor: her.
+	Lucie thought that Lili hurt herself.
+Antecedent: Lili. Anaphor: herself.
+	Lucie thought that herself hurt Lili
+Antecedent: can be either.
+
+
+
+
+
+

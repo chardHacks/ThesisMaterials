@@ -1,0 +1,21 @@
+Intro
+--introhan ung study. tungkol saan. parang pinalawak ng abstract
+ex. : The whole research is mainly divided into parts concerning information gathering and analysis, final design, programming, evaluation and documentation.
+The final design is consist of three main parts, the first one is the Text Processing part which is based on the Factual Statement Extractor and Anaphora Resolution of Hielman and Smith (2009), the second one is the scoring part where sentences are scored according to their weight on the text, and the third one is the question generation proper which is heavily based on Overgenerate and Rank (Heilman & Smith, 2009).
+
+
+SCOPE AND LIMITATION
+
+final design and evaluation of results were the main focus of this research, therefore simplification and optimization of processes and code is not priority.
+It is assumed that the input text is in standard American English grammar and all words are spelled correctly therefore, there will be no correction of the input corpus. The input text should not contain any punctuation inside quotations such as in sentences that end with quotations. All other special characters outside of punctuations, previously mentioned exceptions, the comma, hyphen (in the case of hyphenated words only) are not allowed. Stylized text is also not allowed as it may cause the sentence boundary disambiguation and parsing to malfunction.
+Furthermore, Text2Test will not be able to assess logical relationships (e.g., Juan is a Filipino. Filipinos are intelligent. Therefore, Juan is intelligent
+choices will not be generated as well because this is outside of the question generation scope.
+The study is also not concerned with the amount of questions that could be produced
+
+BACKGROUND
+This implicates that there is a call for further development and exploration of the field of text-to-test generation (more known as Natural Language Generation under NLP) particularly in question generation.
+
+
+
+
+		

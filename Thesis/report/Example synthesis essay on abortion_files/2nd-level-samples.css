@@ -1,0 +1,5 @@
+.twoCollLeiaut { background:#d4d4d4}
+.aBorderGrey { background:#FFF url(../images/2nd-level/rightcol/bg_cont-rg-rp.png) repeat-y top right;  border:3px solid #bab9b9; border-right:none;  border-top:none;   margin:0 7px 7px 7px; }  
+.right-col-div p {text-align:left; margin: 0 5px 10px 5px;}
+.right-col-div li {text-align:left; margin: 0 5px 10px 5px;}
+.sitebar h3 {background: none; margin-bottom: 0;}

@@ -1,0 +1,98 @@
+Genesereth (2005)
+
+Balfourier, J.M., Blache, P., & Van Rullen, T. (n.d.) From Shallow to Deep
+parsing using constraint satisfaction. Retrieved from
+http://www.aune.lpl.univ-aix.fr/~blache/papers/Coling02-Blache.pdf
+
+Barker-Plummer, D., Cox, R., Dale, R., & Etchemendy, J. (2008). An Empirical
+study of errors in translating natural language into logic. Retrieved from
+csjarchive.cogsci.rpi.edu/proceedings/2008/pdfs/p505.pdf
+
+Chan, J., & Lau, J. (2011). Well-Formed Formula in SL. Retrieved from
+http://philosophy.hku.hk/think/sl/
+
+Carbonell, J.G., Michalski, R.S., & Mithcell, T.M. (1983). Machine learning: a
+historical and methodological analysis. AI Magazine, 4(3). Retrieved from
+http://www.aaai.org/anthology/C/C02/C02-1104.pdf
+
+Genesereth, M. Propositional Logic [PDF Document]. Retrieved from
+http://logic.stanford.edu/classes/cs157/2005fall/cs157.html
+
+Grune, D., & Jacobs, C. (1995). Parsing techniques: A practical guide (2nd ed.).
+Retrieved from http://www.scribd.com/doc/5880/Parsing-Techniques
+
+Hutchins, J. (2005). Current commercial machine translation systems and
+computer-based translation tools: System types and their uses. Retrieved
+from
+http://www.hutchinsweb.me.uk/IJT-2005.pdf
+
+Epstein, R.L., (2001). Propositional logics: The semantic foundations of logic
+(2nd ed.). . Belmont, CA: Wadsworth Thomson Learning.
+Federeci, S., Montemagni, S., & Pirrelli, V. (n.d.). Shallow parsing and text
+chunking: A view on underspecification in syntax. Retrieved from
+http://foxdrake.ilc.cnr.it/webtools/document/Federicietal-1996.pdf
+
+Fegaras, L. (2005). Predictive Parsing. Retrieved from
+http://www.lambada.uta.edu/cse5317/notes/node13.html
+
+Freeman, R.A. (1993). Logical reasoning: A guide to clear thinking. University
+Quality Software Co.
+Li, X. & Roth, D. (n.d.). Exploring Evidence for Shallow Parsing. In Harris, Abney,
+& Greffenstette. Retrieved from
+http://delivery.acm.org./10.1145/1120000/1117826/p4-
+li.pdf?key1=1117826&key2=3362330031&coll=DL&dl=ACM&ip=112.198.7
+7.189&CFID=14036090&CFTOKEN=19752748
+
+Liddy, E.D. (2001). Natural Language Processing. In Encyclopedia of Library and
+Information Science (2nd ed.). NY: Marcel Decker, Inc.
+Magnuson, T., & Hunnicut, S. (2003). Support for the construction of sentences
+and phrases for symbol users. Retrieved from
+http://www.speech.kth.se/prod/publications/files/906.pdf
+
+Megyesi, B. (2002). Shallow parsing with PoS taggers and linguistic features.
+Journal of Machine Learning Research, 2, 639-668. Retrieved from
+http://jmlr.csail.mit.edu/papers/volume2/megyesi02a/megyesi02a.pdf
+
+Natural Language Processing for intranet searches. (n.d.). Retrieved from
+Namahn Web site: http://www.namahn.com/resources/documents/note-
+NL.pdf
+Navarro-Perez, J.A. (2007). Encoding and solving problems in effectively
+propositional logic. Retrieved from http://www.pdf4me.net/pdfdata/
+propositional-logic.php
+
+Odchimar, D. A. (2007). Doing logic from Aristotelian logic to Boolean and
+Deontic logic (2nd ed.). Quezon City, Philippines: Central Books.
+Parsing. (2006). Retrieved from EAGLES Central Secretariat Web site:
+http://www.ilc.cnr. it/EAGLES96/rep2/node41.html
+
+Recursive Descent Parsing. (n.d). Retrieved from Lecture Notes Online Web site:
+http://www.cs.uky.edu/~lewis/essays/cpmpilers/rec-des.html
+
+Sheikh Z. & Martinez, F. (2009) A \trigram Part-of-Speech tagger for the Apertium
+free/open source machine translation platform. In Merialdo. Retrieved from
+http://www.mt-archive.info/FreeRBMT-2009-Sheikh.pdf
+
+Tjong Kim Sang, E.F. (2002). Memory-based Shallow Parsing. The Journal of
+Machine Learning Research. Retrieved from EBSCO database.
+Types of Parsing [PDF document]. Retrieved from Lecture Notes Online Web
+site: http://www.cs.umd.edu/class/spring2006/cmsc430/lec4.4p.pdf
+
+Van Asch, V. (n.d.). MBSP for Phyton. In Abney. Retrieved from Computational
+Linguistics & Psycholinguistics Research Center Web site:
+http://www.clips.ua.ac.be/pages/MBSP
+
+Vander Nat, A. (2010). Simple formal logic: With common sense and symbolic
+techniques. New York, NY: Routledge.
+Wu, S., Shih, C., Wu, C., Tsai, T., Hsu, W. (n.d.). Applying maximum entropy to
+robust Chinese shallow parsing. Retrieved from:
+http://www.aclweb.org/anthology/O/O05-1017.pdf
+
+If we arrive at the train station by dusk 
+
+then we catch the train.
+
+
+
+
+
+
